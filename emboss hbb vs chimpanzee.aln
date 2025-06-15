@@ -1,0 +1,53 @@
+########################################
+# Program: needle
+# Rundate: Sun 15 Jun 2025 11:36:21
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20250615-113613-0016-9347500-p1m.asequence
+#    -bsequence emboss_needle-I20250615-113613-0016-9347500-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000509.1
+# 2: XP_508242.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 147
+# Identity:     146/147 (99.3%)
+# Similarity:   146/147 (99.3%)
+# Gaps:           1/147 ( 0.7%)
+# Score: 772.0
+# 
+#
+#=======================================
+
+NP_000509.1        1 MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLS     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+XP_508242.1        1 MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLS     50
+
+NP_000509.1       51 TPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVD    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+XP_508242.1       51 TPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVD    100
+
+NP_000509.1      101 PENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH    147
+                     |||||||||||||||||||||||||||||||||||||||||||||| 
+XP_508242.1      101 PENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKY-    146
+
+
+#---------------------------------------
+#---------------------------------------

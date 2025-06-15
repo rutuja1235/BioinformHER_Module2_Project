@@ -1,0 +1,67 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+hemoglobin subunit beta [Pan troglodytes],Pan troglodytes,301,301,100%,8.00E-106,100,147,XP_508242.1
+hemoglobin subunit delta [Pan troglodytes],Pan troglodytes,285,285,100%,1.00E-99,93.88,147,XP_001162045.2
+hemoglobin subunit beta-1 [Mus musculus],Mus musculus,251,251,100%,3.00E-86,80.27,147,NP_001265090.1
+hemoglobin subunit beta-2 [Mus musculus],Mus musculus,249,249,100%,2.00E-85,80.27,147,NP_058652.1
+"hemoglobin, epsilon 1 [Bos taurus]",Bos taurus,246,246,100%,3.00E-84,77.55,147,NP_001103977.1
+hemoglobin subunit epsilon [Pan troglodytes],Pan troglodytes,240,240,100%,7.00E-82,75.51,147,NP_001129304.1
+hemoglobin subunit gamma-1 [Pan troglodytes],Pan troglodytes,235,235,100%,8.00E-80,73.47,147,NP_001065247.2
+hemoglobin subunit beta [Bos taurus],Bos taurus,234,234,98%,3.00E-79,84.72,145,NP_776342.1
+"hemoglobin, beta adult s chain [Mus musculus]",Mus musculus,233,233,100%,4.00E-79,80.27,147,NP_001188320.1
+hemoglobin subunit gamma-2 [Pan troglodytes],Pan troglodytes,233,233,100%,5.00E-79,72.79,147,NP_001129303.1
+hemoglobin subunit epsilon-4 [Bos taurus],Bos taurus,231,231,100%,3.00E-78,70.75,147,NP_001014910.1
+hemoglobin subunit epsilon-Y2 [Mus musculus],Mus musculus,229,229,100%,1.00E-77,72.79,147,NP_032247.1
+hemoglobin subunit beta-H1 [Mus musculus],Mus musculus,226,226,100%,4.00E-76,69.39,147,NP_032245.1
+hemoglobin fetal subunit beta [Bos taurus],Bos taurus,222,222,98%,1.00E-74,78.47,145,NP_001014902.1
+hemoglobin subunit beta [Gallus gallus],Gallus gallus,221,221,100%,2.00E-74,69.39,147,NP_990820.1
+hemoglobin subunit epsilon-2 [Bos taurus],Bos taurus,221,221,100%,5.00E-74,68.03,147,NP_001014913.1
+hemoglobin fetal subunit beta-like [Bos taurus],Bos taurus,220,220,98%,6.00E-74,78.47,145,XP_024831416.1
+hemoglobin subunit rho [Gallus gallus],Gallus gallus,220,220,100%,7.00E-74,65.99,147,NP_001004390.1
+hemoglobin subunit epsilon [Gallus gallus],Gallus gallus,219,219,100%,2.00E-73,65.99,147,NP_001075173.3
+hemoglobin subunit epsilon 1 [Gallus gallus],Gallus gallus,217,217,100%,1.00E-72,67.35,147,NP_001026660.1
+hemoglobin subunit beta [Bos taurus],Bos taurus,207,207,100%,7.00E-69,65.99,147,XP_002707739.2
+LOW QUALITY PROTEIN: hemoglobin subunit beta-like [Bos taurus],Bos taurus,206,206,97%,3.00E-68,71.83,143,XP_015330224.2
+"hemoglobin, epsilon 1 isoform X1 [Bos taurus]",Bos taurus,196,196,80%,2.00E-64,77.78,150,XP_059730899.1
+"ba1 globin, like [Danio rerio]",Danio rerio,172,172,100%,9.00E-55,51.35,148,NP_001013045.1
+"hemoglobin, beta adult 2 [Danio rerio]",Danio rerio,171,171,99%,1.00E-54,50,147,NP_001003431.2
+"hemoglobin beta, bh2 [Mus musculus]",Mus musculus,160,160,100%,6.00E-50,57.14,147,NP_001121158.1
+hemoglobin beta embryonic-3 [Danio rerio],Danio rerio,158,158,99%,2.00E-49,50.68,147,NP_001015058.1
+hemoglobin beta embryonic-1.2 [Danio rerio],Danio rerio,154,154,100%,1.00E-47,48.98,147,NP_001096600.1
+hemoglobin beta embryonic-2 [Danio rerio],Danio rerio,152,152,100%,4.00E-47,48.3,147,NP_998011.1
+"hemoglobin beta, bh2 isoform X1 [Mus musculus]",Mus musculus,125,125,71%,5.00E-37,58.1,110,XP_006508068.1
+Hemoglobin subunit alpha-like [Danio rerio],Danio rerio,117,117,99%,3.00E-33,40.54,143,NP_001028265.1
+hemoglobin subunit alpha [Danio rerio],Danio rerio,116,116,99%,5.00E-33,40.54,143,NP_571332.3
+hemoglobin subunit pi [Gallus gallus],Gallus gallus,115,115,98%,1.00E-32,38.36,142,NP_001004374.1
+hemoglobin subunit alpha [Pan troglodytes],Pan troglodytes,114,114,97%,3.00E-32,43.45,142,NP_001036091.1
+hemoglobin subunit alpha-D [Gallus gallus],Gallus gallus,114,114,97%,4.00E-32,43.45,141,NP_001004375.1
+"hemoglobin, alpha adult 2 [Danio rerio]",Danio rerio,111,111,97%,5.00E-31,41.38,143,NP_001013479.2
+"hemoglobin alpha, adult chain 2 [Mus musculus]",Mus musculus,111,111,97%,5.00E-31,42.07,142,NP_001077424.1
+"hemoglobin, alpha embryonic 1.3 [Danio rerio]",Danio rerio,110,110,99%,2.00E-30,37.16,143,NP_001352279.1
+"hemoglobin, alpha adult 2 isoform X1 [Danio rerio]",Danio rerio,110,110,97%,5.00E-30,41.38,175,XP_073796316.1
+hemoglobin subunit alpha [Bos taurus],Bos taurus,108,108,97%,6.00E-30,42.76,142,NP_001070890.2
+"hemoglobin, alpha embryonic 5 [Danio rerio]",Danio rerio,104,104,99%,3.00E-28,39.19,143,NP_001313630.1
+hemoglobin subunit zeta [Bos taurus],Bos taurus,102,102,97%,2.00E-27,37.24,142,XP_002683856.1
+hemoglobin alpha embryonic-3 [Danio rerio],Danio rerio,101,101,99%,4.00E-27,38.51,143,NP_898889.2
+hemoglobin subunit zeta [Pan troglodytes],Pan troglodytes,100,100,97%,2.00E-26,36.55,142,XP_024205342.1
+hemoglobin subunit alpha-A [Gallus gallus],Gallus gallus,98.6,98.6,97%,6.00E-26,37.93,142,NP_001004376.1
+hemoglobin subunit alpha-3-like [Pan troglodytes],Pan troglodytes,97.4,97.4,97%,2.00E-25,39.19,145,XP_054524084.2
+hemoglobin subunit theta-1 [Pan troglodytes],Pan troglodytes,97.1,97.1,97%,3.00E-25,39.31,142,XP_016784464.1
+hemoglobin subunit zeta isoform 1 [Mus musculus],Mus musculus,96.7,96.7,97%,4.00E-25,34.48,142,NP_034535.1
+hemoglobin subunit mu [Bos taurus],Bos taurus,94.7,94.7,97%,2.00E-24,37.24,141,NP_001077237.1
+hemoglobin subunit theta-1 [Bos taurus],Bos taurus,92.8,92.8,95%,1.00E-23,40.85,142,NP_001073802.1
+hemoglobin subunit theta-1 [Mus musculus],Mus musculus,91.3,91.3,97%,6.00E-23,36.11,142,NP_001029153.1
+hemoglobin subunit mu [Pan troglodytes],Pan troglodytes,88.6,88.6,97%,7.00E-22,35.17,141,XP_003314933.1
+Hemoglobin subunit alpha-D-like [Danio rerio],Danio rerio,87.8,87.8,97%,1.00E-21,30.82,141,NP_001076303.1
+hemoglobin subunit zeta isoform 2 [Mus musculus],Mus musculus,82.4,82.4,80%,7.00E-20,37.29,115,NP_001423085.1
+"hemoglobin, theta T2 [Mus musculus]",Mus musculus,75.5,75.5,93%,8.00E-17,34.06,145,NP_778165.1
+eye-globin [Gallus gallus],Gallus gallus,73.2,73.2,99%,7.00E-16,26,151,NP_001008786.1
+eye-globin isoform X1 [Gallus gallus],Gallus gallus,73.2,73.2,99%,1.00E-15,26,182,XP_046763374.1
+eye-globin isoform X4 [Gallus gallus],Gallus gallus,70.1,70.1,84%,2.00E-14,26.19,173,XP_046763375.1
+eye-globin isoform X3 [Gallus gallus],Gallus gallus,70.1,70.1,84%,2.00E-14,26.19,181,XP_040552351.1
+hemoglobin subunit theta-1 isoform X1 [Bos taurus],Bos taurus,68.2,68.2,69%,4.00E-14,42.31,125,XP_005201052.1
+eye-globin isoform X2 [Gallus gallus],Gallus gallus,68.6,68.6,80%,6.00E-14,26.45,169,XP_040552356.1
+hemoglobin subunit mu-like [Bos taurus],Bos taurus,60.1,60.1,50%,4.00E-11,41.1,115,XP_024855480.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,
